@@ -49,43 +49,52 @@ System.out.println("~");
 
 
 class GfG{
+    class Pair{
+        int val, min;
+        public Pair(int val, int min){
+            this.val = val;
+            this.min = min;
+        }
+    }
+    
     int max = Integer.MAX_VALUE;
-    int minEle;// = Integer.MAX_VALUE;
-    Stack<Integer> s;// = new Stack<>();
-    PriorityQueue<Integer> q;// = new PriorityQueue<>();
+    int minEle;
+    Stack<Pair> s;
     
     GfG(){
         minEle = max;
         s = new Stack<>();
-        q = new PriorityQueue<>();
 	}
 	
-    //returns min element from stack
     int getMin(){
-        if(minEle==max)
-            return -1;
+        if(minEle==max) return -1;
         return minEle;
     }
     
-    //returns poped element from stack
     int pop(){
         if(s.isEmpty()) return -1;
         
-        int pop = s.pop();
-        q.remove(pop);
-        if(pop==minEle && !q.isEmpty()) 
-            minEle = q.peek();
-        else if(pop==minEle)
-            minEle = max;
+        Pair p = s.pop();
+        int val = p.val, min = p.min;
         
-        return pop;
+        if(s.isEmpty())
+            minEle = max;
+        else{
+            Pair top = s.peek();
+            minEle = top.min;
+        }
+        
+        return val;
     }
 
-    // push element x into the stack
-    void push(int x){
-        s.push(x);
-        q.add(x);
-        minEle = Math.min(minEle, x);
-    }	
+    void push(int val){
+        minEle = Math.min(minEle, val);
+        s.push(new Pair(val, minEle));
+    }
 }
+
+
+
+
+
 
