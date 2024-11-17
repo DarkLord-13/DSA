@@ -1,9 +1,18 @@
 class Solution{
-    public int[] countBits(int n){
-        int[] a = new int[n+1]; 
+    int[] a; int n;
+    public int[] countBits(int nx){
+        n = nx; a = new int[n+1];
+        if(n==0) return a;
 
-        for(int i=0; i<=n; i++) a[i] = a[i>>1] + (i&1);        
-
+        f(1, 1);
         return a;
+    }
+    void f(int i, int b){
+        if(i>n) return;
+        a[i] = b;
+
+        i*=2;
+        f(i, b);
+        f(i+1, b+1);
     }
 }
