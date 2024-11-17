@@ -2,7 +2,12 @@ class Solution{
     int[] c; int n, a, max = Integer.MAX_VALUE; int[][] memo;
     int mini = max;
     public int coinChange(int[] cx, int ax){
-        c = cx; n = c.length; a = ax;
+        c = cx; n = c.length; a = ax; Arrays.sort(c);
+        for(int i=0; i<n/2; i++){
+            int t = c[i];
+            c[i] = c[n-i-1];
+            c[n-i-1] = t;
+        }
         if(a<=0) return 0;
         memo = new int[n][a+1];        
         for(int i=0; i<n; i++) Arrays.fill(memo[i], max);
