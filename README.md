@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DarkLord-13/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DarkLord-13/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/DarkLord-13/DSA/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
 |  |
@@ -111,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
