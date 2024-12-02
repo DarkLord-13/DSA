@@ -5,13 +5,13 @@ class Solution{
         while(dummy.next!=null){
             dummy.next = dummy.next.next;
             s++;
-        } //System.out.println(s);
+        }
+
         dummy = h;
         for(int i=0; i<s/2; i++) dummy = dummy.next; 
-        if(s%2!=0) dummy = dummy.next; //System.out.println(dummy.val);
+        if(s%2!=0) dummy = dummy.next; 
         ListNode rev = reverse(dummy);
-        print(h);
-        print(rev);
+        
         for(int i=0; i<s/2; i++){
             if(h.val!=rev.val) return false;
             h = h.next; rev = rev.next;
@@ -29,12 +29,5 @@ class Solution{
         }
 
         return p;
-    }
-    void print(ListNode h){
-        while(h!=null){
-            System.out.print(h.val+" ");
-            h = h.next;
-        }
-        System.out.println();
     }
 }
