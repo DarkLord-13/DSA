@@ -1,28 +1,24 @@
 class Solution{
     int[] a; int n;
-    Set<List<Integer>> ll = new HashSet<>();
+    List<List<Integer>> ll = new ArrayList<>();
     public List<List<Integer>> subsetsWithDup(int[] ax){
         a = ax; n = a.length;
         Arrays.sort(a);
 
         f(0, new ArrayList<>());
-
-        List<List<Integer>> ret = new ArrayList<>();
-        for(List<Integer> l: ll){
-            //Collections.sort(l);
-            ret.add(l);
-        }
-        return ret;
+        
+        return ll;
     }
     void f(int i, List<Integer> l){
-        if(i>=n){
-            ll.add(new ArrayList<>(l));
-            return;
-        }
+        ll.add(new ArrayList<>(l));        
 
-        l.add(a[i]);
-        f(i+1, l);
-        l.remove(l.size()-1);
-        f(i+1, l);
+        for(int j=i; j<n; j++){
+            if(j>i && a[j]==a[j-1]) continue;
+
+            l.add(a[j]);
+            f(j+1, l);
+
+            l.remove(l.size()-1);
+        }
     }
 }
