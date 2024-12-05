@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DarkLord-13/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DarkLord-13/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/DarkLord-13/DSA/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DarkLord-13/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DarkLord-13/DSA/tree/master/0051-n-queens) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DarkLord-13/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -134,8 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DarkLord-13/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DarkLord-13/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
