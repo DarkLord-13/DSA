@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DarkLord-13/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/DarkLord-13/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DarkLord-13/DSA/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DarkLord-13/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DarkLord-13/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/DarkLord-13/DSA/tree/master/0091-decode-ways) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DarkLord-13/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DarkLord-13/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/DarkLord-13/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 ## Recursion
@@ -150,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
