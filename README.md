@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DarkLord-13/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DarkLord-13/DSA/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarkLord-13/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/DarkLord-13/DSA/tree/master/0322-coin-change) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DarkLord-13/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DarkLord-13/DSA/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/DarkLord-13/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/DarkLord-13/DSA/tree/master/0322-coin-change) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarkLord-13/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
@@ -157,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarkLord-13/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarkLord-13/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
