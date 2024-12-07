@@ -1,31 +1,33 @@
-class Solution{
-    public String removeKdigits(String num, int k){
-        Stack<Integer> s = new Stack<>();
-        for(char c: num.toCharArray()){
-            int d = c-'0';
-            while(k>0 && !s.isEmpty() && s.peek()>d){
-                s.pop();
+class Solution {
+    public String removeKdigits(String num, int k) {
+        Stack<Character> stack = new Stack<>();
+        
+        for (char c : num.toCharArray()) {
+            while (k > 0 && !stack.isEmpty() && stack.peek() > c) {
+                stack.pop();
                 k--;
             }
-            s.push(d);
+            stack.push(c);
         }
-        while(k>0&&!s.isEmpty()){
-            s.pop();
+        
+        // Remove remaining digits if k > 0
+        while (k > 0 && !stack.isEmpty()) {
+            stack.pop();
             k--;
         }
-
-        StringBuilder sb = new StringBuilder();
-        while(!s.isEmpty()){
-            sb.insert(0, s.pop());
-        } System.out.println(sb);
-
-        String ns = sb.toString();
-        int i = 0;
-        while(i<ns.length()&&ns.charAt(i)=='0') 
-            i++;
-        ns = ns.substring(i, ns.length());
-
-        if(ns.equals("")) return "0";
-        return ns;
+        
+        // Construct the result from the stack
+        StringBuilder result = new StringBuilder();
+        for (char c : stack) {
+            result.append(c);
+        }
+        
+        // Remove leading zeros
+        while (result.length() > 0 && result.charAt(0) == '0') {
+            result.deleteCharAt(0);
+        }
+        
+        // If the result is empty, return "0"
+        return result.length() == 0 ? "0" : result.toString();
     }
 }
