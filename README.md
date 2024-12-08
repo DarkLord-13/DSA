@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarkLord-13/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DarkLord-13/DSA/tree/master/0239-sliding-window-maximum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DarkLord-13/DSA/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
