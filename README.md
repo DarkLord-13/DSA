@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DarkLord-13/DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/DarkLord-13/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
