@@ -8,7 +8,7 @@ class Solution{
             else twenty++;
 
             while(cash>=25 && twenty>0){
-                cash-=10;
+                cash-=20;
                 twenty--;
             }
             while(cash>=15 && ten>0){
