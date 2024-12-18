@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DarkLord-13/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/DarkLord-13/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/DarkLord-13/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0076-minimum-window-substring](https://github.com/DarkLord-13/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/DarkLord-13/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/DarkLord-13/DSA/tree/master/0402-remove-k-digits) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/DarkLord-13/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/DarkLord-13/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
