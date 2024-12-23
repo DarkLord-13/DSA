@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/DarkLord-13/DSA/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarkLord-13/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/DarkLord-13/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkLord-13/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DarkLord-13/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/DarkLord-13/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/DarkLord-13/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DarkLord-13/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DarkLord-13/DSA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
