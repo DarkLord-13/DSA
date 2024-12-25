@@ -11,22 +11,20 @@ class Solution{
             rm = (rs+re)/2;
         }
         if(a[rs][n-1]==t) return true;
-        else if(a[rs][n-1]<t) rs++;
-        
+        else if(a[rs][n-1]<t) rs++;        
         if(rs>=m) return false;
 
-        int[] arr = a[rs];
         int s = 0, e = n-1, mid = (s+e)/2;
 
         while(s<e){
-            if(arr[mid]<t) s = mid+1;            
-            else if(arr[mid]>t) e = mid-1;            
+            if(a[rs][mid]<t) s = mid+1;            
+            else if(a[rs][mid]>t) e = mid-1;            
             else return true;
 
             mid = (s+e)/2;
         }    
 
-        if(arr[mid]==t) return true;  
+        if(a[rs][mid]==t) return true;  
         return false;
     }
 }
