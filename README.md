@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarkLord-13/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0820-find-eventual-safe-states](https://github.com/DarkLord-13/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## String
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DarkLord-13/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/DarkLord-13/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
