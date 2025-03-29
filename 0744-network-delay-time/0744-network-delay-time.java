@@ -30,7 +30,7 @@ class Solution{
             adj.get(from).add(new Pair(to, delay));
         } //System.out.println(adj);
 
-        PriorityQueue<Pair> q = new PriorityQueue<>((a, b)-> a.t-b.t);
+        Queue<Pair> q = new LinkedList<>();
         q.add(new Pair(src, 0));
 
         while(!q.isEmpty()){
