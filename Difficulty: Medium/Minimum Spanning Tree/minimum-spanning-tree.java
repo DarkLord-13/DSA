@@ -36,83 +36,31 @@ public class Main {
 // } Driver Code Ends
 
 class Solution{
-    static int find(int x){
-        if(parent[x]!=x){
-            parent[x] = find(parent[x]);
-        }
-        
-        return parent[x];
-    }
-    static void union(int x, int y){
-        int px = find(x);
-        int py = find(y);
-        
-        if(px==py){
-            return;
-        }
-        
-        if(rank[px]>rank[py]){
-            parent[py] = px;
-        }
-        else if(rank[y]>rank[x]){
-            parent[px] = py;
-        }
-        else{
-            parent[py] = px;
-            rank[px]++;
-        }
-    }
-    
-    static int[] parent, rank;
     static int spanningTree(int V, int E, List<List<int[]>> adj){
-        parent = new int[V];
-        rank = new int[V];
-        
-        for(int i=0; i<V; i++){
-            parent[i] = i;
-        }
-        
-        PriorityQueue<List<Integer>> q = new PriorityQueue<>((a, b)-> a.get(0)-b.get(0));
-        
-        for(int i=0; i<V; i++){
-            for(int[] edge: adj.get(i)){
-                int from = i;
-                int to = edge[0];
-                int w = edge[1];
-                
-                List<Integer> l = new ArrayList<>();
-                l.add(w);
-                l.add(from);
-                l.add(to);
-                
-                q.add(l);
-            }
-        }
-        
+        int[] v = new int[V];
         int sum = 0;
+        PriorityQueue<int[]> q = new PriorityQueue<>((a, b)-> a[1]-b[1]);
+        q.add(new int[]{0, 0});
+        
         while(!q.isEmpty()){
-            List<Integer> l = q.poll();
-            int w = l.get(0);
-            int from = l.get(1);
-            int to = l.get(2);
+            int[] edge = q.poll();
+            int to = edge[0];
+            int w = edge[1];
             
-            if(find(from)!=find(to)){
-                union(from, to);
-                sum += w;
+            if(v[to]==1){
+                continue;
+            }
+            
+            v[to] = 1;
+            sum += w;
+            
+            for(int[] next: adj.get(to)){
+                if(v[next[0]]==0){
+                    q.add(next);
+                }
             }
         }
         
         return sum;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
