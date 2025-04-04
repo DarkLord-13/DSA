@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/DarkLord-13/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/DarkLord-13/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/DarkLord-13/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/DarkLord-13/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/DarkLord-13/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DarkLord-13/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/DarkLord-13/DSA/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DarkLord-13/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Union Find
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
