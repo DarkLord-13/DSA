@@ -1,33 +1,35 @@
 class Solution{
-    int[] parent;
-    public int makeConnected(int n, int[][] conn){
-        if(conn.length<n-1){
-            return -1;
-        }
-
-        parent = new int[n];
-        for(int i=0; i<n; i++){
-            parent[i] = i;
-        }
+    List<List<Integer>> adj = new ArrayList<>();
+    int[] v;
+    public int makeConnected(int n, int[][] connections){
+        if(connections.length < n-1) return -1;
         
-        int c = n;
-        for(int[] edge: conn){
-            int a = find(edge[0]);
-            int b = find(edge[1]);
+        v = new int[n];
+        
+        for(int i=0; i<n; i++){
+            adj.add(new ArrayList<>());
+        }
 
-            if(a!=b){
-                parent[a] = b;
-                c--;
+        for(int[] edge: connections){
+            adj.get(edge[0]).add(edge[1]);
+            adj.get(edge[1]).add(edge[0]);
+        }
+
+        int c = 0; // no. of distinct components in the graph
+        for(int i=0; i<n; i++){
+            if(v[i]==0){
+                dfs(i);
+                c++;
             }
         }
 
         return c-1;
     }
-    int find(int x){
-        if(parent[x]!=x){
-            parent[x] = find(parent[x]);
-        }
+    void dfs(int i){        
+        v[i] = 1;
 
-        return parent[x];
+        for(int next: adj.get(i)){
+            if(v[next]==0) dfs(next);
+        }
     }
 }
