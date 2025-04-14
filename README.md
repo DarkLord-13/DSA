@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarkLord-13/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/DarkLord-13/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
