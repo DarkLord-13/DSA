@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/DarkLord-13/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0038-count-and-say](https://github.com/DarkLord-13/DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/DarkLord-13/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/DarkLord-13/DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/DarkLord-13/DSA/tree/master/0127-word-ladder) |
