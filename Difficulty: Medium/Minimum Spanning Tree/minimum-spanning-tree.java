@@ -36,12 +36,15 @@ public class Main {
 // } Driver Code Ends
 
 class Solution{
-    static int spanningTree(int V, int E, List<List<int[]>> adj){
-        int[] v = new int[V];
-        int sum = 0;
-        PriorityQueue<int[]> q = new PriorityQueue<>((a, b)-> a[1]-b[1]);
+    int spanningTree(int V, int E, List<List<int[]>> adj){
+        PriorityQueue<int[]> q = new PriorityQueue<>((a, b)->{
+            return a[1] - b[1];
+        });
         q.add(new int[]{0, 0});
         
+        int sum = 0;
+        int[] v = new int[V];
+
         while(!q.isEmpty()){
             int[] edge = q.poll();
             int to = edge[0];
@@ -53,11 +56,8 @@ class Solution{
             
             v[to] = 1;
             sum += w;
-            
-            for(int[] next: adj.get(to)){
-                if(v[next[0]]==0){
-                    q.add(next);
-                }
+            for(int[] nextEdge: adj.get(to)){
+                q.add(nextEdge);
             }
         }
         
