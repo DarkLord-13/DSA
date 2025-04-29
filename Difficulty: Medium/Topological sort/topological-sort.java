@@ -53,44 +53,40 @@ class Main {
 // } Driver Code Ends
 
 class Solution{
-    List<List<Integer>> adj = new ArrayList<>();
+    int[] v;
+    Stack<Integer> st = new Stack<>();
+    ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
     public ArrayList<Integer> topoSort(int V, int[][] edges){
+        v = new int[V];
         for(int i=0; i<V; i++){
             adj.add(new ArrayList<>());
         }
-        for(int[] edge: edges){
-            adj.get(edge[0]).add(edge[1]);
-        } //System.out.println(adj);
-        
-        ArrayList<Integer> l = new ArrayList<>();
-        Stack<Integer> st = new Stack<>();
-        int[] v = new int[V];
+        for(int[] a: edges){
+            adj.get(a[0]).add(a[1]);
+        } // System.out.println(adj);
         
         for(int i=0; i<V; i++){
-            if(v[i]==0){
-                dfs(i, v, st);
+            if(v[i] == 0){
+                dfs(i);
             }
         }
         
+        ArrayList<Integer> l = new ArrayList<>();
         while(!st.isEmpty()){
             l.add(st.pop());
-        } //System.out.println(l);
+        } // System.out.println(l);
         
         return l;
-        
     }
-    void dfs(int i, int[] v, Stack<Integer> st){
-        // if(v[i]==1){
-        //     return;
-        // }
+    void dfs(int i){
+        if(v[i] == 1){
+            return;
+        }
         v[i] = 1;
         
         for(int next: adj.get(i)){
-            if(v[next]==0){
-                dfs(next, v, st);
-            }
+            dfs(next);
         }
-        
         st.push(i);
     }
 }
