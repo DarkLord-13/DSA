@@ -114,30 +114,9 @@ System.out.println("~");
 // } Driver Code Ends
 
 class Solution{
-    public static int isSumProperty(Node root){
-        Queue<Node> q = new LinkedList<>();
-        q.add(root);
-        
-        boolean flag = true;
-        while(!q.isEmpty()){
-            int s = q.size();
-            
-            for(int i=0; i<s; i++){
-                Node poll = q.poll();
-                
-                if(!check(poll)){
-                    flag = false;
-                    break;
-                }
-                
-                if(poll.left!=null){
-                    q.add(poll.left);
-                }
-                if(poll.right!=null){
-                    q.add(poll.right);
-                }
-            }
-        }
+    boolean flag = true;
+    public int isSumProperty(Node root){
+        f(root);
         
         if(flag){
             return 1;
@@ -146,24 +125,23 @@ class Solution{
             return 0;
         }
     }
-    static boolean check(Node root){
-        if(root==null || root.left==null && root.right==null){
-            return true;
+    void f(Node root){
+        if(root == null || (root.left==null && root.right==null) || !flag){
+            return;
         }
         
         int sum = 0;
-        if(root.left!=null){
+        if(root.left != null){
             sum += root.left.data;
         }
-        if(root.right!=null){
+        if(root.right != null){
             sum += root.right.data;
         }
+        if(sum != root.data){
+            flag = false;
+        }
         
-        if(sum==root.data){
-            return true;
-        }
-        else{
-            return false;
-        }
+        f(root.left);
+        f(root.right);
     }
 }
