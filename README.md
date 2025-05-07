@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
+| [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/DarkLord-13/DSA/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DarkLord-13/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0229-majority-element-ii) |
+| [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 ## Graph
 |  |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/DarkLord-13/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Iterator
+|  |
+| ------- |
+| [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 <!---LeetCode Topics End-->
