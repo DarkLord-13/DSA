@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/DarkLord-13/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/DarkLord-13/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/DarkLord-13/DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/DarkLord-13/DSA/tree/master/0076-minimum-window-substring) |
