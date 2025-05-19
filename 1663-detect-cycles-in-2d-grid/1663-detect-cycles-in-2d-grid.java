@@ -1,7 +1,6 @@
 class Solution{
     char[][] g;
     int m, n;
-    boolean flag = false;
     int[] x = {-1, 0, +1, 0};
     int[] y = {0, +1, 0, -1};
     Boolean[][] memo;
@@ -14,20 +13,22 @@ class Solution{
         int[][] v = new int[m][n];
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
+
                 if(v[i][j] == 0){
-                    boolean x = f(i, j, -1, -1, g[i][j], v);
+                    if(f(i, j, -1, -1, g[i][j], v)){
+                        return true;
+                    }
                 }
             }
         }
 
-        return flag;
+        return false;
     }
     boolean f(int i, int j, int pi, int pj, char c, int[][] v){
         if(!safe(i, j) || g[i][j] != c){
             return false;
         }       
         if(v[i][j] == 1){
-            flag = true;
             return true;
         }
         if(memo[i][j] != null){
