@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarkLord-13/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Matrix
 |  |
 | ------- |
