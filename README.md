@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/DarkLord-13/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3639-zero-array-transformation-i](https://github.com/DarkLord-13/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3639-zero-array-transformation-i](https://github.com/DarkLord-13/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
 | ------- |
