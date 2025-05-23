@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarkLord-13/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3639-zero-array-transformation-i](https://github.com/DarkLord-13/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarkLord-13/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Enumeration
+|  |
+| ------- |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
