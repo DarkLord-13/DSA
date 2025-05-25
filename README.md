@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/DarkLord-13/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/DarkLord-13/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/DarkLord-13/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/DarkLord-13/DSA/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
