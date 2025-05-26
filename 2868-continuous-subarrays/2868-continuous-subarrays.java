@@ -1,24 +1,23 @@
-import java.util.*;
-
-class Solution {
-    public long continuousSubarrays(int[] nums) {
-        int n = nums.length;
+class Solution{
+    public long continuousSubarrays(int[] a){
+        int n = a.length;
         TreeMap<Integer, Integer> map = new TreeMap<>();
-        int i = 0;
         long count = 0;
+        int i = 0;
 
-        for (int j = 0; j < n; j++) {
-            map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
+        for(int j=0; j<n; j++){
+            map.put(a[j], map.getOrDefault(a[j], 0) + 1);
 
-            // Shrink window if diff > 2
-            while (map.lastKey() - map.firstKey() > 2) {
-                map.put(nums[i], map.get(nums[i]) - 1);
-                if (map.get(nums[i]) == 0) map.remove(nums[i]);
+            while(map.lastKey() - map.firstKey() > 2){
+                map.put(a[i], map.get(a[i]) - 1);
+
+                if(map.get(a[i]) == 0){
+                    map.remove(a[i]);
+                }
                 i++;
             }
 
-            // All subarrays ending at j with start in [i...j] are valid
-            count += (j - i + 1);
+            count += (j-i+1);
         }
 
         return count;
