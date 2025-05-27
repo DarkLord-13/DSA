@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3639-zero-array-transformation-i](https://github.com/DarkLord-13/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/DarkLord-13/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/DarkLord-13/DSA/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/DarkLord-13/DSA/tree/master/0371-sum-of-two-integers) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Bit Manipulation
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/DarkLord-13/DSA/tree/master/0744-network-delay-time) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
