@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarkLord-13/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Trie
 |  |
 | ------- |
