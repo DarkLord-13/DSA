@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DarkLord-13/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkLord-13/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/DarkLord-13/DSA/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/DarkLord-13/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/DarkLord-13/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0229-majority-element-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/DarkLord-13/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DarkLord-13/DSA/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/DarkLord-13/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/DarkLord-13/DSA/tree/master/0371-sum-of-two-integers) |
