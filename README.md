@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/DarkLord-13/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/DarkLord-13/DSA/tree/master/3639-zero-array-transformation-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DarkLord-13/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DarkLord-13/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DarkLord-13/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DarkLord-13/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Monotonic Stack
 |  |
 | ------- |
