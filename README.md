@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarkLord-13/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/DarkLord-13/DSA/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DarkLord-13/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DarkLord-13/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
