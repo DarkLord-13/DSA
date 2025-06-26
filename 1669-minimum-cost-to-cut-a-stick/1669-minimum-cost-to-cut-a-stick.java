@@ -1,38 +1,33 @@
 class Solution{
     int[] augCuts;
-    int[][] memo;
+    Integer[][] memo;
     public int minCost(int n, int[] cuts){
-        augCuts = new int[cuts.length + 2];
-        for(int i=0; i<cuts.length; i++){
-            augCuts[i] = cuts[i];
+        int l = cuts.length;
+        augCuts = new int[l + 2];
+        augCuts[0] = 0;
+        augCuts[l+1] = n;
+        for(int i=1; i<=l; i++){
+            augCuts[i] = cuts[i-1];
         }
-        augCuts[cuts.length] = n;
         Arrays.sort(augCuts);
+        memo = new Integer[l+2][l+2];
 
-        memo = new int[augCuts.length][augCuts.length];
-        for(int i=0; i<augCuts.length; i++){
-            Arrays.fill(memo[i], -1);
-        }
-
-        return f(0, augCuts.length-1);
+        return f(0, l+1);        
     }
-    int f(int i, int j){
-        if(i+1 == j){
+    int f(int s, int e){
+        if(s+1 == e){
             return 0;
         }
-        if(memo[i][j] != -1){
-            return memo[i][j];
+        if(memo[s][e] != null){
+            return memo[s][e];
         }
 
-        int best = Integer.MAX_VALUE;
-        for(int k=i+1; k<j; k++){
-            int cutCost = augCuts[j] - augCuts[i];
-            int leftCost = f(i, k);
-            int rightCost = f(k, j);
-
-            best = Math.min(best, cutCost + leftCost + rightCost);
+        int minCost = Integer.MAX_VALUE;
+        for(int cut=s+1; cut<e; cut++){
+            int cost = (augCuts[e] - augCuts[s]) + f(s, cut) + f(cut, e);
+            minCost = Math.min(minCost, cost); 
         }
 
-        return memo[i][j] = best;
+        return memo[s][e] = minCost;
     }
 }
