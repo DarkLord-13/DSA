@@ -1,30 +1,46 @@
 class Solution{
-    public boolean searchMatrix(int[][] a, int t){
-        int m = a.length, n = a[0].length;
-        int rs = 0, re = m-1, rm = (rs+re)/2;
-        
-        while(rs<re){
-            if(a[rm][n-1]>t) re = rm-1;            
-            else if(a[rm][n-1]<t) rs = rm+1;            
-            else return true;
+    public boolean searchMatrix(int[][] g, int target){
+        int m = g.length, n = g[0].length;
 
-            rm = (rs+re)/2;
+        if(m==1 && n==1){
+            return g[0][0] == target;
         }
-        if(a[rs][n-1]==t) return true;
-        else if(a[rs][n-1]<t) rs++;        
-        if(rs>=m) return false;
+        
+        int s = 0, e = m-1;
+        while(s <= e){
+            int mid = (s + e) >> 1;
 
-        int s = 0, e = n-1, mid = (s+e)/2;
+            if(target < g[mid][n-1]){
+                e = mid - 1;
+            }
+            else if(target > g[mid][n-1]){
+                s = mid + 1;
+            }
+            else{
+                return true;
+            }
+        } // System.out.println(s);
+        int row = s;
 
-        while(s<e){
-            if(a[rs][mid]<t) s = mid+1;            
-            else if(a[rs][mid]>t) e = mid-1;            
-            else return true;
+        if(row >= m){
+            return false;
+        }
 
-            mid = (s+e)/2;
-        }    
+        s = 0; e = n-1;
+        while(s <= e){
+            int mid = (s + e) >> 1;
 
-        if(a[rs][mid]==t) return true;  
+            if(target < g[row][mid]){
+                e = mid - 1;
+            }
+            else if(target > g[row][mid]){
+                s = mid + 1;
+            }
+            else{
+                return true;
+            }
+        }
+
         return false;
     }
 }
