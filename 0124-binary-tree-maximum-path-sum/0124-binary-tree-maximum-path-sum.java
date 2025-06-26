@@ -3,7 +3,7 @@ class Solution{
     public int maxPathSum(TreeNode root){
         max = root.val;
 
-        int x = f(root);
+        f(root);
 
         return max;
     }
@@ -12,11 +12,11 @@ class Solution{
             return 0;
         }
 
-        int l = Math.max(f(root.left), 0);
-        int r = Math.max(f(root.right), 0);
+        int left = f(root.left);
+        int right = f(root.right);
 
-        max = Math.max(max, l + r + root.val);
+        max = Math.max(max, root.val + left + right);
 
-        return root.val + Math.max(l, r);
+        return Math.max(0, Math.max(root.val + left, root.val + right));
     }
 }
