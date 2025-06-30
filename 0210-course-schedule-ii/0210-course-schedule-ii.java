@@ -1,30 +1,49 @@
 class Solution{
-    List<List<Integer>> adj = new ArrayList<>();
-    List<Integer> l = new ArrayList<>();
+    List<List<Integer>> ll;
     public int[] findOrder(int nc, int[][] pre){
+        if(pre.length == 0){
+            int[] ret = new int[nc];
+            for(int i=0; i<nc; i++){
+                ret[i] = i;
+            }
+
+            return ret;
+        }
+
+        this.ll = new ArrayList<>();
         for(int i=0; i<nc; i++){
-            adj.add(new ArrayList<>());
+            ll.add(new ArrayList<>());
         }
         for(int[] a: pre){
-            adj.get(a[1]).add(a[0]);
-        } //System.out.println(adj);
-
-        for(int i=0; i<nc; i++){
-            if(cycle(i, new int[nc])){
-                return new int[0];
-            }
+            ll.get(a[1]).add(a[0]);
         }
+        // System.out.println(ll);
 
         int[] v = new int[nc];
+
         for(int i=0; i<nc; i++){
             if(v[i] == 0){
-                f(i, v);
+                if(cycle(i, v)){
+                    return new int[0];
+                }
             }
         }
+        
 
-        int[] ret = new int[nc];
+        Stack<Integer> s = new Stack<>();
+        v = new int[nc];
+
         for(int i=0; i<nc; i++){
-            ret[i] = l.get(nc-i-1);
+            if(v[i] == 0){
+                dfs(i, s, v);
+            }
+        }        
+
+        int size = s.size();
+        int[] ret = new int[nc];
+        
+        for(int i=0; i<size; i++){
+            ret[i] = s.pop();
         }
 
         return ret;
@@ -33,9 +52,9 @@ class Solution{
         if(v[i] == 1){
             return true;
         }
-        v[i] = 1;
 
-        for(int next: adj.get(i)){
+        v[i] = 1;
+        for(int next: ll.get(i)){
             if(cycle(next, v)){
                 return true;
             }
@@ -44,15 +63,15 @@ class Solution{
 
         return false;
     }
-    void f(int i, int[] v){
+    void dfs(int i, Stack<Integer> s, int[] v){
         if(v[i] == 1){
             return;
         }
-        v[i] = 1;
 
-        for(int next: adj.get(i)){
-            f(next, v);
+        v[i] = 1;
+        for(int next: ll.get(i)){
+            dfs(next, s, v);
         }
-        l.add(i);
+        s.push(i);
     }
 }
