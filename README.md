@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/DarkLord-13/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/DarkLord-13/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DarkLord-13/DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DarkLord-13/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DarkLord-13/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/DarkLord-13/DSA/tree/master/3639-zero-array-transformation-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting
 |  |
 | ------- |
@@ -536,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
