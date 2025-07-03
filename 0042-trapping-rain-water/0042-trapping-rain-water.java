@@ -1,26 +1,31 @@
 class Solution{
     public int trap(int[] h){
         int n = h.length;
-
-        // calculating maxPrefix
-        int[] pre = new int[n]; pre[0] = h[0];
-        for(int i=1; i<n; i++) pre[i] = Math.max(h[i], pre[i-1]); //print(pre);
-
-        // calculating maxSuffix
-        int[] suf = new int[n]; suf[n-1] = h[n-1];
-        for(int i=n-2; i>=0; i--) suf[i] = Math.max(h[i], suf[i+1]); //print(suf);
-
-        int total = 0;
-        for(int i=0; i<n; i++){
-            if(h[i]<pre[i] && h[i]<suf[i]){
-                total += Math.min(pre[i], suf[i]) - h[i];
-            }
+        int[] pge = new int[n];
+        int[] nge = new int[n];
+        
+        pge[0] = h[0];
+        for(int i=1; i<n; i++){
+            pge[i] = Math.max(pge[i-1], h[i]);
         }
 
-        return total;
+        nge[n-1] = h[n-1];
+        for(int i=n-2; i>=0; i--){
+            nge[i] = Math.max(nge[i+1], h[i]);
+        }
+
+        int sum = 0;
+        for(int i=1; i<n-1; i++){
+            sum += Math.abs(Math.min(pge[i], nge[i]) - h[i]);
+        }
+
+        return sum;
     }
     void print(int[] arr){
-        for(int i: arr) System.out.print(i + " ");
+        for(int i: arr){
+            System.out.print(i + " ");
+        }
+
         System.out.println();
     }
 }
