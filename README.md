@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/DarkLord-13/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DarkLord-13/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/DarkLord-13/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DarkLord-13/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
