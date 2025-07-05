@@ -1,52 +1,66 @@
 class Solution{
-    HashMap<Character, Integer> mapT = new HashMap<>();
-    HashMap<Character, Integer> mapS = new HashMap<>();
-    public String minWindow(String s, String t){
-       char[] a = s.toCharArray();       
-       int l=0, r=0, n=a.length, mini=0, minj=n+5;
+    public String minWindow(String ss, String tt){
+        int m = ss.length();
+        int n = tt.length();
 
-       for(char c: t.toCharArray()){
-           mapT.put(c, mapT.getOrDefault(c, 0)+1);
-       } System.out.println(mapT);
+        HashMap<Character, Integer> mapS = new HashMap<>();
+        HashMap<Character, Integer> mapT = new HashMap<>(); 
 
-       while(r<n){
-           if(mapT.containsKey(a[r])){
-                mapS.put(a[r], mapS.getOrDefault(a[r], 0)+1);
-            } System.out.println(mapS);
+        char[] s = ss.toCharArray();
+        char[] t = tt.toCharArray();
 
-           if(allExists()){
-                if(r-l<minj-mini){
-                    minj=r; mini=l;
+        for(char c: t){
+            mapT.put(c, mapT.getOrDefault(c, 0) + 1);
+        } 
+        // System.out.println(mapT);
+
+        int required = mapT.size();
+        int satisfied = 0;
+
+        int i = 0, j = 0;
+        int ml = Integer.MAX_VALUE, mini = 0, minj = 0;
+
+        while(j < m){           
+            if(mapT.containsKey(s[j])){ 
+                mapS.put(s[j], mapS.getOrDefault(s[j], 0) + 1);
+
+                if(mapS.get(s[j]).equals(mapT.get(s[j]))){
+                    satisfied++;
+                }                
+            }
+            while(satisfied == required){
+                // System.out.println(mapS);
+                int cl = j-i+1;
+                if(cl < ml){
+                    ml = cl;
+                    mini = i;
+                    minj = j;
                 }
 
-                while(allExists()){
-                    if(mapT.containsKey(a[l]))
-                        mapS.put(a[l], mapS.get(a[l])-1);
-                    l++;
+                if(mapS.containsKey(s[i])){
+                    mapS.put(s[i], mapS.get(s[i]) - 1);
 
-                    if(!allExists()){
-                        if(r-(l-1)<minj-mini){
-                            minj=r; mini=l-1;
-                        }
+                    if(mapS.get(s[i]) == mapT.get(s[i]) - 1){
+                        satisfied--;
+                    }
+
+                    if(mapS.get(s[i]) == 0){
+                        mapS.remove(s[i]);
                     }
                 }
-                
+
+                i++;
             }
-            r++;
-       }
 
-        if(minj==n+5) return "";
-       return s.substring(mini, minj+1);
-    }
-    boolean allExists(){
-        if(mapT.size()!=mapS.size()) return false;
-        for(Map.Entry<Character, Integer> entry: mapS.entrySet()){
-            //System.out.println(entry.getKey()+"-"+entry.getValue());
-            //System.out.println(map);
+            j++;
+        }        
+        
 
-            if(entry.getValue()<mapT.get(entry.getKey())) 
-                return false;
+        if(ml == Integer.MAX_VALUE){
+            return "";
         }
-        return true;
+        else{
+            return ss.substring(mini, minj+1);
+        }
     }
 }
