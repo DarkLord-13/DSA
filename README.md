@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DarkLord-13/DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/DarkLord-13/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/DarkLord-13/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/DarkLord-13/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/DarkLord-13/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DarkLord-13/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DarkLord-13/DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/DarkLord-13/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/DarkLord-13/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DarkLord-13/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/DarkLord-13/DSA/tree/master/0206-reverse-linked-list) |
