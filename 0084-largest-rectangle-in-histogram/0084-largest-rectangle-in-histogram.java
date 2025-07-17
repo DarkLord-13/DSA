@@ -1,42 +1,38 @@
-class Solution {
-    public int largestRectangleArea(int[] a){
-        int n = a.length, maxi = 0;
-        int[] pse = preMin(a); 
-        int[] nse = sufMin(a);
+class Solution{
+    public int largestRectangleArea(int[] h){
+        int n = h.length;
+        Stack<Integer> st = new Stack<>();
+        int[] pse = new int[n], nse = new int[n];
 
         for(int i=0; i<n; i++){
-            int cm = ((i-pse[i])+(nse[i]-i-1))*a[i];
-            maxi = Math.max(cm, maxi);
+            while(!st.isEmpty() && h[i] <= h[st.peek()]){
+                st.pop();
+            }
+
+            pse[i] = st.isEmpty() ? -1 : st.peek();
+
+            st.push(i);
         }
 
-        return maxi;
-    }
-    int[] preMin(int[] a){
-        int n = a.length;
-        int[] ret = new int[n];
-        Stack<Integer> s = new Stack<>();
-
-        for(int i=0; i<n; i++){
-            while(!s.isEmpty() && a[s.peek()]>=a[i]) s.pop();
-            int ind = s.isEmpty() ? -1 : s.peek();
-            ret[i] = ind;
-            s.push(i);
-        }
-
-        return ret;
-    }
-    int[] sufMin(int[] a){
-        int n = a.length;
-        int[] ret = new int[n];
-        Stack<Integer> s = new Stack<>();
-
+        st.clear();
         for(int i=n-1; i>=0; i--){
-            while(!s.isEmpty() && a[s.peek()]>a[i]) s.pop();
-            int ind = s.isEmpty() ? n : s.peek();
-            ret[i] = ind;
-            s.push(i);
+            while(!st.isEmpty() && h[i] <= h[st.peek()]){
+                st.pop();
+            }
+
+            nse[i] = st.isEmpty() ? n : st.peek();
+
+            st.push(i);
         }
 
-        return ret;
+        System.out.println(Arrays.toString(pse));
+        System.out.println(Arrays.toString(nse));
+
+        int max = 0;
+        for(int i=0; i<n; i++){
+            max = Math.max(max, (nse[i] - pse[i] - 1) * h[i]);
+        }
+
+        return max;
     }
 }
