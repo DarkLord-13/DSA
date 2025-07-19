@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DarkLord-13/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DarkLord-13/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/DarkLord-13/DSA/tree/master/0460-lfu-cache) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DarkLord-13/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DarkLord-13/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/DarkLord-13/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DarkLord-13/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarkLord-13/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DarkLord-13/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/DarkLord-13/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DarkLord-13/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarkLord-13/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DarkLord-13/DSA/tree/master/0783-search-in-a-binary-search-tree) |
