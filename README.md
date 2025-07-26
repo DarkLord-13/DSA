@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DarkLord-13/DSA/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/DarkLord-13/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/DarkLord-13/DSA/tree/master/0829-subdomain-visit-count) |
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/DarkLord-13/DSA/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/DarkLord-13/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DarkLord-13/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
