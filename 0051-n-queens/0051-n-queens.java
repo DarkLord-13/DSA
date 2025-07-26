@@ -1,69 +1,97 @@
 class Solution{
-    List<List<String>> ans = new ArrayList<>(); int n;
-    public List<List<String>> solveNQueens(int nx){
-        n = nx; char[][] board = new char[n][n];
-        for(int i=0; i<n; i++) Arrays.fill(board[i], '.');
+    List<List<String>> ll;
+    int n;
+    public List<List<String>> solveNQueens(int n){
+        this.n = n;
+        this.ll = new ArrayList<>();
+        char[][] g = new char[n][n];
+        for(int i=0; i<n; i++){
+            Arrays.fill(g[i], '.');
+        }
 
-        solve(0, board);
+        f(0, g);
 
-        return ans;
+        return ll;
     }
-    void solve(int col, char[][] board){
-        if(col==n){
-            ans.add(construct(board));
+
+    List<String> convert(char[][] g){
+        List<String> l = new ArrayList<>();
+        for(char[] row: g){
+            l.add(new String(row));
+        }
+
+        return l;
+    }
+
+    void f(int col, char[][] g){
+        if(col == n){
+            ll.add(convert(g));
             return;
         }
 
-        for(int i=0; i<n; i++){
-            if(isSafe(i, col, board)){
-                board[i][col] = 'Q';
-                solve(col+1, board);
-                board[i][col] = '.';
+        for(int row=0; row<n; row++){
+            if(isSafe(row, col, g)){
+                g[row][col] = 'Q';
+                f(col+1, g);
+                g[row][col] = '.';
             }
         }
     }
-    boolean isSafe(int r, int c, char[][] board){
-        for(int i=0; i<n; i++){
-            if(board[i][c]=='Q') return false;
-        }
 
-        for(int j=0; j<n; j++){
-            if(board[r][j]=='Q') return false;
-        }
+    boolean isSafe(int r, int c, char[][] g){
+        // check for same row
+        int j = 0, count = 0;
+        while(j < n){
+            if(g[r][j] == 'Q') count++;
 
-        int i=r, j=c;
-        while(i<n&&j<n){ //upper right
-            if(board[i][j]=='Q') return false;
-            i++; j++;
+            j++;
         }
+        if(count > 0) return false;
 
-        i=r; j=c;
-        while(i>=0&&j>=0){ //bottom left
-            if(board[i][j]=='Q') return false;
+        // check for same col
+        int i = 0; count = 0;
+        while(i < n){
+            if(g[i][c] == 'Q') count++;
+
+            i++;
+        }
+        if(count > 0) return false;
+
+        // check for diagonal up-left
+        count = 0;
+        i = r-1; j = c-1;
+        while(i >= 0 && j >= 0){
+            if(g[i][j] == 'Q') count++;
+
             i--; j--;
         }
 
-        i=r; j=c;
-        while(i>=0&&j<n){ //bottom right
-            if(board[i][j]=='Q') return false;
+        // check for diagonal up-right
+        i = r-1; j = c+1;
+        while(i >= 0 && j < n){
+            if(g[i][j] == 'Q') count++;
+            
             i--; j++;
         }
 
-        i=r; j=c;
-        while(i<n&&j>=0){ //upper left
-            if(board[i][j]=='Q') return false;
+        // check for diagonal down-left
+        i = r+1; j = c-1;
+        while(i < n && j >= 0){
+            if(g[i][j] == 'Q') count++;
+            
             i++; j--;
         }
 
-        return true;
-    }
-    List<String> construct(char[][] board){
-        List<String> ret = new ArrayList<>();
-        for(char[] iter: board){
-            String row = new String(iter);
-            ret.add(row);
+        // check for diagonal down-right
+        i = r+1; j = c+1;
+        while(i < n && j < n){
+            if(g[i][j] == 'Q') count++;
+            
+            i++; j++;
         }
 
-        return ret;
+        if(count > 0) return false;
+
+        return true;
     }
 }
