@@ -1,32 +1,35 @@
 class Solution{
-    int[] c; int n, a, max = Integer.MAX_VALUE; int[][] memo;
-    int mini = max;
-    public int coinChange(int[] cx, int ax){
-        c = cx; n = c.length; a = ax; Arrays.sort(c);
-        for(int i=0; i<n/2; i++){
-            int t = c[i];
-            c[i] = c[n-i-1];
-            c[n-i-1] = t;
-        }
-        if(a<=0) return 0;
-        memo = new int[n][a+1];        
-        for(int i=0; i<n; i++) Arrays.fill(memo[i], max);
+    int[] coins;
+    int amount;
+    int[][] memo;
+    public int coinChange(int[] coins, int amount){
+        this.coins = coins;
+        this.amount = amount;
+        this.memo = new int[coins.length][amount + 1];
 
-        f(0, 0, 0);
-        if(mini==max) return -1; 
-        return mini;
+        for(int i=0; i<coins.length; i++){
+            Arrays.fill(this.memo[i], -1);
+        }
+        Arrays.sort(coins);
+
+        int min = f(coins.length - 1, 0);
+
+        return min == 999999 ? -1 : min;
     }
-    void f(int i, int nc, int s){
-        if(s==a){
-            mini = Math.min(mini, nc);
-            memo[i][s] = mini;
-            return;
+    int f(int i, int sum){
+        if(sum == amount){
+            return 0;
         }
-        if(i>=n || s>a || nc>=mini) return;
-        if(memo[i][s]<=nc) return;
-        memo[i][s] = nc;
+        if(i < 0 || sum > amount){
+            return 999999;
+        }
+        if(memo[i][sum] != -1){
+            return memo[i][sum];
+        }
 
-        f(i, nc+1, s+c[i]);
-        f(i+1, nc, s); 
+        int p = 1 + f(i, sum + coins[i]);
+        int np = f(i-1, sum);
+
+        return memo[i][sum] = Math.min(p, np);
     }
 }
