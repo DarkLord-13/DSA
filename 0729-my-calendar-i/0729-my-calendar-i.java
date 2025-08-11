@@ -1,18 +1,18 @@
 class MyCalendar{
-    private List<List<Integer>> ll;
+    private TreeMap<Integer, Integer> calendar;
 
     public MyCalendar(){
-        this.ll = new ArrayList<>();
+        calendar = new TreeMap<>();
     }
     
     public boolean book(int s, int e){
-        for(List<Integer> l: this.ll){
-            if(s < l.get(1) && e > l.get(0)){
-                return false;
-            }
-        }
+        Map.Entry<Integer, Integer> prev = calendar.floorEntry(s);
+        if(prev != null && prev.getValue() > s) return false;
 
-        ll.add(Arrays.asList(s, e));
+        Map.Entry<Integer, Integer> next = calendar.ceilingEntry(s);
+        if(next != null && next.getKey() < e) return false;
+
+        calendar.put(s, e);
 
         return true;
     }
