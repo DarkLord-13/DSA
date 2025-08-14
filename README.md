@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DarkLord-13/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/DarkLord-13/DSA/tree/master/0169-majority-element) |
+| [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/DarkLord-13/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DarkLord-13/DSA/tree/master/0239-sliding-window-maximum) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/DarkLord-13/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/DarkLord-13/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/DarkLord-13/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DarkLord-13/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/DarkLord-13/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DarkLord-13/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/DarkLord-13/DSA/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarkLord-13/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarkLord-13/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
