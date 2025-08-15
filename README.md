@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/DarkLord-13/DSA/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
+| [0564-find-the-closest-palindrome](https://github.com/DarkLord-13/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Bit Manipulation
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DarkLord-13/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/DarkLord-13/DSA/tree/master/0443-string-compression) |
+| [0564-find-the-closest-palindrome](https://github.com/DarkLord-13/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/DarkLord-13/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/DarkLord-13/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
