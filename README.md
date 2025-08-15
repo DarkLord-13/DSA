@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/DarkLord-13/DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarkLord-13/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DarkLord-13/DSA/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/DarkLord-13/DSA/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Bit Manipulation
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/DarkLord-13/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/DarkLord-13/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 | [0460-lfu-cache](https://github.com/DarkLord-13/DSA/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/DarkLord-13/DSA/tree/master/0729-my-calendar-i) |
 | [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 ## Segment Tree
 |  |
 | ------- |
