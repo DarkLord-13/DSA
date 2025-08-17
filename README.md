@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/DarkLord-13/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
+| [1708-design-parking-system](https://github.com/DarkLord-13/DSA/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DarkLord-13/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Design
 |  |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/DarkLord-13/DSA/tree/master/0729-my-calendar-i) |
 | [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/DarkLord-13/DSA/tree/master/0937-online-stock-span) |
+| [1708-design-parking-system](https://github.com/DarkLord-13/DSA/tree/master/1708-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
+| [1708-design-parking-system](https://github.com/DarkLord-13/DSA/tree/master/1708-design-parking-system) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Graph
 |  |
