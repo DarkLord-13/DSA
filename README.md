@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/DarkLord-13/DSA/tree/master/0457-circular-array-loop) |
 | [0503-next-greater-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0457-circular-array-loop](https://github.com/DarkLord-13/DSA/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/DarkLord-13/DSA/tree/master/0460-lfu-cache) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DarkLord-13/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DarkLord-13/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/DarkLord-13/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/DarkLord-13/DSA/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DarkLord-13/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/DarkLord-13/DSA/tree/master/0647-palindromic-substrings) |
