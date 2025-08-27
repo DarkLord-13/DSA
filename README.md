@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DarkLord-13/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
+| [1762-furthest-building-you-can-reach](https://github.com/DarkLord-13/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1972-rotating-the-box](https://github.com/DarkLord-13/DSA/tree/master/1972-rotating-the-box) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/DarkLord-13/DSA/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1762-furthest-building-you-can-reach](https://github.com/DarkLord-13/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarkLord-13/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/DarkLord-13/DSA/tree/master/0744-network-delay-time) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1762-furthest-building-you-can-reach](https://github.com/DarkLord-13/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/DarkLord-13/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
