@@ -1,26 +1,28 @@
 class Solution{
-    public void sortColors(int[] a){
-        int n = a.length;
-        int zero = 0, one = 0, two = n-1, i = 0;
-
-        while(i <= two){
-            if(a[i] == 0){
-                swap(i, zero, a);
-                zero++;
+    public void sortColors(int[] nums){
+        int n = nums.length;
+        int l = 0, h = n - 1;
+        int i = 0;
+        
+        while(i <= h){
+            if(nums[i] == 0){
+                swap(l, i, nums);
+                l++;
                 i++;
             }
-            else if(a[i] == 2){
-                swap(i, two, a);
-                two--;
+            else if(nums[i] == 2){
+                swap(i, h, nums);
+                h--;
             }
             else{
                 i++;
             }
         }
     }
-    void swap(int i, int j, int[] a){
-        int temp = a[i];
-        a[i] = a[j];
-        a[j] = temp;
+
+    private void swap(int i, int j, int[] nums){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
