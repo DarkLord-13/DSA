@@ -1,38 +1,42 @@
 class Solution{
-    public int[][] merge(int[][] a){
-        int n = a.length;
-        if(n<2) return a;
-
-        Arrays.sort(a, (x, y)->{
-            return x[0]-y[0];
+    public int[][] merge(int[][] g){
+        int n = g.length;
+        Arrays.sort(g, (a, b)-> {
+            if(a[0] != b[0]){
+                return a[0] - b[0];
+            }
+            else{
+                return a[1] - b[1];
+            }
         });
 
-        ArrayList<Integer> li = new ArrayList<>();
-        ArrayList<Integer> lj = new ArrayList<>();
-        int i = 1, start = a[0][0], end = a[0][1], max = end;
+        int i = 1, s = g[0][0], e = g[0][1];
+        List<List<Integer>> ll = new ArrayList<>();
 
-        while(i<n){
-            
-            while(i<n && end>=a[i][0]){
-                max = Math.max(max, a[i][1]);
-                end = max;
-                i++;                
+        while(i < n){
+            if(g[i][0] > e){
+                ll.add(Arrays.asList(s, e));
+                s = g[i][0];
+                e = g[i][1];
+            }
+            else{
+                e = Math.max(e, g[i][1]);
             }
 
-            li.add(start);
-            lj.add(max);
+            i++;
+        }   
+        ll.add(Arrays.asList(s, e));
 
-            if(i<n){
-                start = a[i][0];
-                end = a[i][1];
-            }
-        }
+        return listToArray(ll);     
+    }
 
-        int s = li.size();
-        int[][] ret = new int[s][2];
-        for(i=0; i<s; i++){
-            ret[i][0] = li.get(i);
-            ret[i][1] = lj.get(i);
+    private int[][] listToArray(List<List<Integer>> ll){
+        int n = ll.size();
+        int[][] ret = new int[n][2];
+
+        for(int i=0; i<n; i++){
+            ret[i][0] = ll.get(i).get(0);
+            ret[i][1] = ll.get(i).get(1);
         }
 
         return ret;
