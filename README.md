@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 | [0564-find-the-closest-palindrome](https://github.com/DarkLord-13/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Bit Manipulation
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1972-rotating-the-box](https://github.com/DarkLord-13/DSA/tree/master/1972-rotating-the-box) |
+| [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DarkLord-13/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Monotonic Stack
 |  |
