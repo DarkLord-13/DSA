@@ -1,35 +1,45 @@
 class Solution{
-    public List<Integer> majorityElement(int[] a){
-        int n = a.length;
-        int maj1 = 0, maj2 = 0;
-        int f1 = 0, f2 = 0;
-        
+    public List<Integer> majorityElement(int[] nums){
+        int n = nums.length;
+        int one = 0, two = 0;
+        int oc = 0, tc = 0;
+
         for(int i=0; i<n; i++){
-            if(maj1==a[i]) f1++;
-            else if(maj2==a[i]) f2++;
-            else if(f1==0){
-                maj1 = a[i];
-                f1 = 1;
+            if(nums[i] == one){
+                oc++;
             }
-            else if(f2==0){
-                maj2 = a[i];
-                f2 = 1;
+            else if(nums[i] == two){
+                tc++;
+            }
+            else if(oc == 0){
+                oc = 1;
+                one = nums[i];
+            }
+            else if(tc == 0){
+                tc = 1;
+                two = nums[i];
             }
             else{
-                f1--;         
-                f2--;
-            }            
+                oc--;
+                tc--;
+            }
         }
+        // System.out.println(one + " " + two);
 
-        f1 = 0; f2 = 0;
+        oc = 0; tc = 0;
         for(int i=0; i<n; i++){
-            if(a[i]==maj1) f1++;
-            else if(a[i]==maj2) f2++;
+            if(nums[i] == one){
+                oc++;
+            }
+            else if(nums[i] == two){
+                tc++;
+            }
         }
 
-        ArrayList<Integer> l = new ArrayList<>(2);
-        if(f1>(n/3)) l.add(maj1);
-        if(f2>(n/3)) l.add(maj2);
-        return l;
+        List<Integer> l = new ArrayList<>();
+        if(oc > (n / 3)) l.add(one);
+        if(tc > (n / 3)) l.add(two);
+
+        return new ArrayList<>(l);
     }
 }
