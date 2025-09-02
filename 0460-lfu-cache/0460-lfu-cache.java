@@ -1,78 +1,67 @@
 class LFUCache{
     private class Node{
-        int key, value, freq;
+        int key, val, freq;
 
-        public Node(int key, int value){
+        public Node(int key, int val){
             this.key = key;
-            this.value = value;
+            this.val = val;
             this.freq = 1;
         }
     }
 
-    private final int capacity;
-    private int size = 0;
     private int minFreq = 0;
-
-    // key -> Node
+    private int cap;
     private HashMap<Integer, Node> keyToNode = new HashMap<>();
+    private HashMap<Integer, LinkedHashSet<Node>> freqToNodeList = new HashMap<>();
 
-    // freq -> set of Nodes
-    private HashMap<Integer, LinkedHashSet<Node>> freqToNode = new HashMap<>();
-
-    public LFUCache(int capacity){
-        this.capacity = capacity;
+    public LFUCache(int cap){
+        this.cap = cap;
     }
     
     public int get(int key){
         if(!keyToNode.containsKey(key)){
             return -1;
-        }
+        }        
         else{
-            Node node = keyToNode.get(key);
-            increaseFreq(node);
-            return node.value;
+            increaseFreq(keyToNode.get(key));
+            return keyToNode.get(key).val;
         }
     }
     
-    public void put(int key, int value){
+    public void put(int key, int val){
         if(keyToNode.containsKey(key)){
-            Node node = keyToNode.get(key);
-            node.value = value;
-            increaseFreq(node);
+            keyToNode.get(key).val = val;
+            increaseFreq(keyToNode.get(key));
         }
         else{
-            if(size == capacity){
-                LinkedHashSet<Node> minFreqSet = freqToNode.get(minFreq);
-                Node toEvict = minFreqSet.iterator().next();
-                minFreqSet.remove(toEvict);
-                keyToNode.remove(toEvict.key);
-                size--;
+            Node node = new Node(key, val);
+
+            if(keyToNode.size() >= cap){
+                Node del = freqToNodeList.get(minFreq).iterator().next();
+                freqToNodeList.get(minFreq).remove(del);
+                keyToNode.remove(del.key);
             }
 
-            Node newNode = new Node(key, value);
-            keyToNode.put(key, newNode);
-            if(!freqToNode.containsKey(1)){
-                freqToNode.put(1, new LinkedHashSet<>());
+            keyToNode.put(key, node);
+            if(!freqToNodeList.containsKey(1)){
+                freqToNodeList.put(1, new LinkedHashSet<>());
             }
-            freqToNode.get(1).add(newNode);
+            freqToNodeList.get(1).add(node);
             minFreq = 1;
-
-            size++;
         }
     }
 
     private void increaseFreq(Node node){
-        LinkedHashSet<Node> set = freqToNode.get(node.freq);
-        set.remove(node);
+        node.freq += 1;
+        freqToNodeList.get(node.freq - 1).remove(node);
 
-        if(node.freq == minFreq && set.isEmpty()){
+        if(node.freq - 1 == minFreq && freqToNodeList.get(minFreq).size() == 0){
             minFreq++;
         }
 
-        node.freq++;
-        if(!freqToNode.containsKey(node.freq)){
-            freqToNode.put(node.freq, new LinkedHashSet<>());
+        if(!freqToNodeList.containsKey(node.freq)){
+            freqToNodeList.put(node.freq, new LinkedHashSet<>());
         }
-        freqToNode.get(node.freq).add(node);
+        freqToNodeList.get(node.freq).add(node);
     }
 }
