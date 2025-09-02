@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DarkLord-13/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0670-maximum-swap](https://github.com/DarkLord-13/DSA/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 | [0564-find-the-closest-palindrome](https://github.com/DarkLord-13/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0670-maximum-swap](https://github.com/DarkLord-13/DSA/tree/master/0670-maximum-swap) |
 | [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
