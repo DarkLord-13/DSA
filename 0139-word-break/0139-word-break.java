@@ -1,36 +1,27 @@
 class Solution{
-    int l; String s; Set<String> set; boolean flag = false;
-    Boolean[][] memo;
-    public boolean wordBreak(String sx, List<String> wordDict){
-        s = sx; l = s.length();
-        set = new HashSet<>(wordDict);
-        memo = new Boolean[l][l];
+    private int n;
+    private String s;
+    private Boolean[][] memo;
+    public boolean wordBreak(String s, List<String> dict){
+        this.n = s.length();
+        this.s = s;
+        this.memo = new Boolean[n][n];
+        HashSet<String> set = new HashSet<>(dict);
 
-        boolean x = f(0, 0);
-        return flag;
+        return f(0, s.length() - 1, set);
     }
-    boolean f(int i, int j){
-        System.out.println(i+" "+j);
-        if(flag) return true;
-        if(i>=l){
-            flag = true;
-            return true;
-        }
-        if(j>=l) return false;
-        if(memo[i][j]!=null) return memo[i][j];
-        
-        //System.out.println(s.substring(i, j+1));
-        boolean a = false;
-        if(set.contains(s.substring(i, j+1))){
-            //System.out.println(s.substring(i, j+1));
-            if(j==l-1){
-                //System.out.println(s.substring(i, j+1));
-                flag = true;
-            }
-            a = f(j+1, j+1);
-        }
-        boolean b = f(i, j+1);
+    boolean f(int i, int j, HashSet<String> set){
+        if(i >= n) return true;
+        if(j >= n) return false;
+        if(memo[i][j] != null) return memo[i][j];
 
-        return memo[i][j] = a||b;
+        for(int k=i; k<=j; k++){
+            if(set.contains(s.substring(i, k + 1))){
+                boolean ret = f(k + 1, j, set);
+                if(ret) return memo[i][j] = true;
+            }
+        }
+
+        return memo[i][j] = false;
     }
 }
