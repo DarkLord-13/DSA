@@ -1,15 +1,21 @@
 class Solution{
     public int majorityElement(int[] a){
-        int num = a[0], f = 1, n = a.length;
-        for(int i=1; i<n; i++){
-            if(a[i]==num) f++;
-            else f--;
-            if(f==0){
-                num = a[i];
-                f = 1;
-            }
-        }        
+        int count = 0;
+        int maj = a[0];
 
-        return num;
+        for(int num: a){
+            if(num == maj){
+                count++;
+            }
+            else{
+                count--;
+                if(count == 0){
+                    maj = num;
+                    count = 1;
+                }
+            }
+        }
+
+        return maj;
     }
 }
