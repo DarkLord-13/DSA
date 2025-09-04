@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DarkLord-13/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1762-furthest-building-you-can-reach](https://github.com/DarkLord-13/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DarkLord-13/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
