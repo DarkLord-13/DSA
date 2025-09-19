@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/DarkLord-13/DSA/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/DarkLord-13/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/DarkLord-13/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 | [0564-find-the-closest-palindrome](https://github.com/DarkLord-13/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/DarkLord-13/DSA/tree/master/0670-maximum-swap) |
+| [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/DarkLord-13/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Iterator
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Ordered Set
 |  |
