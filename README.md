@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DarkLord-13/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarkLord-13/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DarkLord-13/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DarkLord-13/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DarkLord-13/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DarkLord-13/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DarkLord-13/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Linked List
 |  |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DarkLord-13/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DarkLord-13/DSA/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -747,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/DarkLord-13/DSA/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/DarkLord-13/DSA/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 ## Enumeration
 |  |
