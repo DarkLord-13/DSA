@@ -1,37 +1,41 @@
 class Solution{
-    // Set<Integer> terminal = new HashSet<>();
-    int n;
-    int[][] graph;
-    int[] v;
-    public List<Integer> eventualSafeNodes(int[][] gx){
-        graph = gx;
-        n = graph.length;
-        v = new int[n];
-        List<Integer> l = new ArrayList<>();
+    public List<Integer> eventualSafeNodes(int[][] graph){
+        int n = graph.length;
+        int[] v = new int[n];
 
         for(int i=0; i<n; i++){
-            if(isSafe(i)){
-                l.add(i);
+            if(graph[i].length == 0){
+                v[i] = 2;
             }
         }
-       
-        Collections.sort(l);
-        return l;
+
+        for(int i=0; i<n; i++){
+            if(v[i] == 0){
+                f(i, v, graph);
+            }
+        }
+
+        List<Integer> safeNodes = new ArrayList<>();
+        for(int i=0; i<n; i++){
+            if(v[i] == 2){
+                safeNodes.add(i);
+            }
+        }
+
+        return safeNodes;
     }
-    boolean isSafe(int i){
-        if(v[i]!=0){ // visited
-            if(v[i]==2){ // safe
-                return true;
-            }
-            else{ // unsafe
-                return false;
-            }
+
+    private boolean f(int i, int[] v, int[][] g){
+        if(v[i] != 0){
+            if(v[i] == 1) return false;
+            else return true;
         }
 
         v[i] = 1;
 
-        for(int next: graph[i]){
-            if(!isSafe(next)){
+        for(int next: g[i]){
+            if(!f(next, v, g)){
+                v[next] = 1;
                 return false;
             }
         }
@@ -39,11 +43,5 @@ class Solution{
         v[i] = 2;
 
         return true;
-    }
-    void print(Boolean[] arr){
-        for(Boolean i: arr){
-            System.out.print(i+" ");
-        }
-        System.out.println();
     }
 }
