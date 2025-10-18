@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DarkLord-13/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarkLord-13/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0284-peeking-iterator](https://github.com/DarkLord-13/DSA/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/DarkLord-13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DarkLord-13/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DarkLord-13/DSA/tree/master/0322-coin-change) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/DarkLord-13/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/DarkLord-13/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0284-peeking-iterator](https://github.com/DarkLord-13/DSA/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/DarkLord-13/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/DarkLord-13/DSA/tree/master/0284-peeking-iterator) |
 | [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 ## Number Theory
 |  |
