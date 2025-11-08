@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DarkLord-13/DSA/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/DarkLord-13/DSA/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/DarkLord-13/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0829-subdomain-visit-count](https://github.com/DarkLord-13/DSA/tree/master/0829-subdomain-visit-count) |
 | [0833-bus-routes](https://github.com/DarkLord-13/DSA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DarkLord-13/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/DarkLord-13/DSA/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/DarkLord-13/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/DarkLord-13/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [1130-last-stone-weight-ii](https://github.com/DarkLord-13/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DarkLord-13/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/DarkLord-13/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/DarkLord-13/DSA/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/DarkLord-13/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/DarkLord-13/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/DarkLord-13/DSA/tree/master/0833-bus-routes) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
+| [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/DarkLord-13/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Combinatorics
 |  |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
+| [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/DarkLord-13/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1022-unique-paths-iii](https://github.com/DarkLord-13/DSA/tree/master/1022-unique-paths-iii) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DarkLord-13/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarkLord-13/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0741-cherry-pickup](https://github.com/DarkLord-13/DSA/tree/master/0741-cherry-pickup) |
+| [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [1022-unique-paths-iii](https://github.com/DarkLord-13/DSA/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
