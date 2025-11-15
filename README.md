@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DarkLord-13/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 | [2563-split-message-based-on-limit](https://github.com/DarkLord-13/DSA/tree/master/2563-split-message-based-on-limit) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Linked List
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/DarkLord-13/DSA/tree/master/0937-online-stock-span) |
 | [1708-design-parking-system](https://github.com/DarkLord-13/DSA/tree/master/1708-design-parking-system) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 ## Data Stream
 |  |
 | ------- |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/DarkLord-13/DSA/tree/master/0744-network-delay-time) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/DarkLord-13/DSA/tree/master/1762-furthest-building-you-can-reach) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/DarkLord-13/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 ## Iterator
 |  |
 | ------- |
@@ -787,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/DarkLord-13/DSA/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 ## Enumeration
 |  |
@@ -813,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/DarkLord-13/DSA/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/DarkLord-13/DSA/tree/master/0729-my-calendar-i) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -834,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/DarkLord-13/DSA/tree/master/0218-the-skyline-problem) |
+| [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 ## Line Sweep
 |  |
 | ------- |
