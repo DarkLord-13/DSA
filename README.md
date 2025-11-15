@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/DarkLord-13/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/DarkLord-13/DSA/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/DarkLord-13/DSA/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/DarkLord-13/DSA/tree/master/0692-top-k-frequent-words) |
 ## Memoization
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DarkLord-13/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/DarkLord-13/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0386-lexicographical-numbers](https://github.com/DarkLord-13/DSA/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/DarkLord-13/DSA/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/DarkLord-13/DSA/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/0543-diameter-of-binary-tree) |
