@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/DarkLord-13/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DarkLord-13/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DarkLord-13/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DarkLord-13/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DarkLord-13/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarkLord-13/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DarkLord-13/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1762-furthest-building-you-can-reach](https://github.com/DarkLord-13/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/DarkLord-13/DSA/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
