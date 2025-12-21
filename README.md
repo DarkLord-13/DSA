@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DarkLord-13/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/DarkLord-13/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DarkLord-13/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/DarkLord-13/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## String
 |  |
 | ------- |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DarkLord-13/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DarkLord-13/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/DarkLord-13/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
