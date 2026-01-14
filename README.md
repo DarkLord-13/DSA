@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/DarkLord-13/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DarkLord-13/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DarkLord-13/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/DarkLord-13/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/DarkLord-13/DSA/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/DarkLord-13/DSA/tree/master/0210-course-schedule-ii) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DarkLord-13/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DarkLord-13/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DarkLord-13/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DarkLord-13/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DarkLord-13/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/DarkLord-13/DSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DarkLord-13/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DarkLord-13/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DarkLord-13/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/DarkLord-13/DSA/tree/master/0130-surrounded-regions) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DarkLord-13/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DarkLord-13/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DarkLord-13/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DarkLord-13/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DarkLord-13/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/DarkLord-13/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DarkLord-13/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/DarkLord-13/DSA/tree/master/0086-partition-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DarkLord-13/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DarkLord-13/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/DarkLord-13/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DarkLord-13/DSA/tree/master/0160-intersection-of-two-linked-lists) |
