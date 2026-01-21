@@ -2,66 +2,88 @@ class Solution{
     
     private class DSU{
         
-        private int[] p, r;
+        int[] p, r;
         
         public DSU(int n){
             this.p = new int[n];
-            for(int i=0; i<n; i++) p[i] = i;
+            for(int i=0; i<n; i++){
+                p[i] = i;
+            }
             
             this.r = new int[n];
+            Arrays.fill(r, 1);
         }
         
-        private int find(int x){
+        int find(int x){
             if(p[x] != x){
                 return p[x] = find(p[x]);
             }
             
             return p[x];
-        }
+        }    
         
-        private boolean union(int x, int y){
-            x = find(x); 
-            y = find(y);
+        void union(int x, int y){
+            x = find(x); y = find(y);
             
-            if(x == y) return false;
-            
-            if(r[x] > r[y]) p[y] = x;
-            else if(r[x] < r[y]) p[x] = y;
-            else{
-                p[y] = x;
-                r[x]++;
+            if(r[x] > r[y]){
+                p[y] = p[x];
             }
-            
-            return true;
+            else if(r[x] < r[y]){
+                p[x] = p[y];
+            }
+            else{
+                r[x]++;
+                p[y] = p[x];
+            }
         }
-        
     }
     
     public boolean isTree(int n, int m, ArrayList<ArrayList<Integer>> edges){
         DSU dsu = new DSU(n);
         
-        for(ArrayList<Integer> edge: edges){
-            int x = edge.get(0), y = edge.get(1);
-            boolean goodUnion = dsu.union(x, y);
+        List<List<Integer>> ll = new ArrayList<>();
+        for(int i=0; i<n; i++) ll.add(new ArrayList<>());
+        
+        for(ArrayList<Integer> e: edges){
+            int from = e.get(0), to = e.get(1);
             
-            if(!goodUnion){
+            ll.get(from).add(to);
+            // ll.get(to).add(from);
+            
+            dsu.union(from, to);
+        }
+        
+        for(int i=0; i<n; i++) dsu.p[i] = dsu.find(i);
+        
+        // System.out.println(Arrays.toString(dsu.p));
+        
+        for(int i=0; i<n-1; i++){
+            if(dsu.p[i] != dsu.p[i + 1]) return false;
+        }
+        
+        int[] v = new int[n];
+        for(int i=0; i<n; i++){
+            if(hasCycle(i, ll, v)){
+                // System.out.println(Arrays.toString(v) + "---" + i);
                 return false;
             }
         }
         
-        for(int i=0; i<n; i++){
-            dsu.p[i] = dsu.find(dsu.p[i]);
+        return true;
+    }
+    
+    private boolean hasCycle(int i, List<List<Integer>> ll, int[] v){
+        if(v[i] == 1) return true;
+        
+        v[i] = 1;
+        
+        for(int next: ll.get(i)){
+            if(hasCycle(next, ll, v)) return true;
         }
         
-        Set<Integer> uniqueParents = new HashSet<>();
-        for(int parent: dsu.p){
-            uniqueParents.add(parent);
-        }
-        // System.out.println(uniqueParents);
-        // System.out.println(Arrays.toString(dsu.p));
+        v[i] = 0;
         
-        if(uniqueParents.size() > 1) return false;
-        else return true;
+        return false;
     }
 }
 
