@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarkLord-13/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1130-last-stone-weight-ii](https://github.com/DarkLord-13/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DarkLord-13/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/DarkLord-13/DSA/tree/master/0854-making-a-large-island) |
 | [1022-unique-paths-iii](https://github.com/DarkLord-13/DSA/tree/master/1022-unique-paths-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/DarkLord-13/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/DarkLord-13/DSA/tree/master/1765-map-of-highest-peak) |
