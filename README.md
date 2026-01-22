@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/DarkLord-13/DSA/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/DarkLord-13/DSA/tree/master/0174-dungeon-game) |
+| [0204-count-primes](https://github.com/DarkLord-13/DSA/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/DarkLord-13/DSA/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/DarkLord-13/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DarkLord-13/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DarkLord-13/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/DarkLord-13/DSA/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/DarkLord-13/DSA/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/DarkLord-13/DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/DarkLord-13/DSA/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DarkLord-13/DSA/tree/master/0204-count-primes) |
 | [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Ordered Set
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DarkLord-13/DSA/tree/master/0204-count-primes) |
 | [2563-split-message-based-on-limit](https://github.com/DarkLord-13/DSA/tree/master/2563-split-message-based-on-limit) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/DarkLord-13/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/DarkLord-13/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
