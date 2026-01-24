@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DarkLord-13/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DarkLord-13/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DarkLord-13/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DarkLord-13/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarkLord-13/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0088-merge-sorted-array) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/DarkLord-13/DSA/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/DarkLord-13/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/DarkLord-13/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DarkLord-13/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DarkLord-13/DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/DarkLord-13/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DarkLord-13/DSA/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/DarkLord-13/DSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DarkLord-13/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DarkLord-13/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DarkLord-13/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DarkLord-13/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DarkLord-13/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DarkLord-13/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/DarkLord-13/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DarkLord-13/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DarkLord-13/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DarkLord-13/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/DarkLord-13/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/DarkLord-13/DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/DarkLord-13/DSA/tree/master/0174-dungeon-game) |
