@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/DarkLord-13/DSA/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DarkLord-13/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/DarkLord-13/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/DarkLord-13/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/DarkLord-13/DSA/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/DarkLord-13/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2938-separate-black-and-white-balls](https://github.com/DarkLord-13/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DarkLord-13/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-move-pieces-to-obtain-a-string](https://github.com/DarkLord-13/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2563-split-message-based-on-limit](https://github.com/DarkLord-13/DSA/tree/master/2563-split-message-based-on-limit) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DarkLord-13/DSA/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2938-separate-black-and-white-balls](https://github.com/DarkLord-13/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Trie
