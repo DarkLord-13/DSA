@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-split-two-strings-to-make-palindrome](https://github.com/DarkLord-13/DSA/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1972-rotating-the-box](https://github.com/DarkLord-13/DSA/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DarkLord-13/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/DarkLord-13/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarkLord-13/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/DarkLord-13/DSA/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DarkLord-13/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/DarkLord-13/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2563-split-message-based-on-limit](https://github.com/DarkLord-13/DSA/tree/master/2563-split-message-based-on-limit) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DarkLord-13/DSA/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/DarkLord-13/DSA/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
