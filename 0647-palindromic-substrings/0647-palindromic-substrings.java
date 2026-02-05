@@ -1,35 +1,28 @@
 class Solution{
-    private static char[] s;
-    private static int n;
-    public int countSubstrings(String str){
-        this.n = str.length();
-        this.s = str.toCharArray();
+    public int countSubstrings(String s){
+        int n = s.length(), count = 0;
 
-        if(n <= 1) return n;
-        
-        int pals = n;
-        for(int i=1; i<n; i++){
-            pals += countPals(i-1, i);
-            pals += countPals(i-1, i+1);
+        for(int i=0; i<n; i++){
+            count += f(i, i + 1, s);
+            count += f(i - 1, i + 1, s);
+            count++;
         }
 
-        return pals;
+        return count;
     }
-    int countPals(int i, int j){
-        if(i < 0 || j >= n) return 0;
 
-        int pals = 0;
-        while(i >= 0 && j < n){
-            if(s[i] == s[j]){
-                i--;
-                j++;
-                pals++;
+    private int f(int l, int r, String s){
+        int count = 0;
+        
+        while(l >= 0 && r < s.length()){
+            if(s.charAt(l) == s.charAt(r)){
+                l--;
+                r++;
+                count++;
             }
-            else{
-                break;
-            }
+            else break;
         }
 
-        return pals;
+        return count;
     }
 }
