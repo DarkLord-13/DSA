@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarkLord-13/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarkLord-13/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/DarkLord-13/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/DarkLord-13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DarkLord-13/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarkLord-13/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -949,4 +950,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/DarkLord-13/DSA/tree/master/0218-the-skyline-problem) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/DarkLord-13/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
