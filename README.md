@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/DarkLord-13/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/DarkLord-13/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DarkLord-13/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/DarkLord-13/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/DarkLord-13/DSA/tree/master/0169-majority-element) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DarkLord-13/DSA/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/DarkLord-13/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DarkLord-13/DSA/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/DarkLord-13/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DarkLord-13/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DarkLord-13/DSA/tree/master/0169-majority-element) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DarkLord-13/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DarkLord-13/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/DarkLord-13/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/DarkLord-13/DSA/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/DarkLord-13/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DarkLord-13/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DarkLord-13/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/DarkLord-13/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DarkLord-13/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/DarkLord-13/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/DarkLord-13/DSA/tree/master/0386-lexicographical-numbers) |
@@ -486,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DarkLord-13/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/DarkLord-13/DSA/tree/master/0140-word-break-ii) |
 | [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/DarkLord-13/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Combinatorics
@@ -665,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/DarkLord-13/DSA/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/DarkLord-13/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DarkLord-13/DSA/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/DarkLord-13/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/DarkLord-13/DSA/tree/master/0257-binary-tree-paths) |
 | [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
