@@ -1,27 +1,23 @@
 class Solution{
-    private int n;
-    private String s;
-    private Boolean[][] memo;
+
+    private Boolean[] memo;
+
     public boolean wordBreak(String s, List<String> dict){
-        this.n = s.length();
-        this.s = s;
-        this.memo = new Boolean[n][n];
-        HashSet<String> set = new HashSet<>(dict);
-
-        return f(0, s.length() - 1, set);
+        this.memo = new Boolean[s.length() + 1];
+        Set<String> set = new HashSet<>(dict);
+        return f(0, s, set);
     }
-    boolean f(int i, int j, HashSet<String> set){
-        if(i >= n) return true;
-        if(j >= n) return false;
-        if(memo[i][j] != null) return memo[i][j];
 
-        for(int k=i; k<=j; k++){
-            if(set.contains(s.substring(i, k + 1))){
-                boolean ret = f(k + 1, j, set);
-                if(ret) return memo[i][j] = true;
+    private boolean f(int i, String s, Set<String> set){
+        if(i >= s.length()) return memo[i] = true;
+        if(memo[i] != null) return memo[i];
+
+        for(int j=i; j<s.length(); j++){
+            if(set.contains(s.substring(i, j + 1))){
+                if(f(j + 1, s, set)) return memo[i] = true;
             }
         }
 
-        return memo[i][j] = false;
+        return memo[i] = false;
     }
 }
