@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/DarkLord-13/DSA/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarkLord-13/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/DarkLord-13/DSA/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarkLord-13/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DarkLord-13/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/DarkLord-13/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/DarkLord-13/DSA/tree/master/1048-longest-string-chain) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DarkLord-13/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/DarkLord-13/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/DarkLord-13/DSA/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/DarkLord-13/DSA/tree/master/0930-all-possible-full-binary-trees) |
+| [1048-longest-string-chain](https://github.com/DarkLord-13/DSA/tree/master/1048-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/DarkLord-13/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DarkLord-13/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DarkLord-13/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/DarkLord-13/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/DarkLord-13/DSA/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/DarkLord-13/DSA/tree/master/1048-longest-string-chain) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/DarkLord-13/DSA/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1972-rotating-the-box](https://github.com/DarkLord-13/DSA/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DarkLord-13/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DarkLord-13/DSA/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/DarkLord-13/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DarkLord-13/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/DarkLord-13/DSA/tree/master/1048-longest-string-chain) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DarkLord-13/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/DarkLord-13/DSA/tree/master/0829-subdomain-visit-count) |
 | [0844-backspace-string-compare](https://github.com/DarkLord-13/DSA/tree/master/0844-backspace-string-compare) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [1048-longest-string-chain](https://github.com/DarkLord-13/DSA/tree/master/1048-longest-string-chain) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DarkLord-13/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DarkLord-13/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
