@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/DarkLord-13/DSA/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/DarkLord-13/DSA/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/DarkLord-13/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/DarkLord-13/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/DarkLord-13/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DarkLord-13/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DarkLord-13/DSA/tree/master/0240-search-a-2d-matrix-ii) |
