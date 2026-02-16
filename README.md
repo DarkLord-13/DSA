@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/DarkLord-13/DSA/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1972-rotating-the-box](https://github.com/DarkLord-13/DSA/tree/master/1972-rotating-the-box) |
+| [2013-detect-squares](https://github.com/DarkLord-13/DSA/tree/master/2013-detect-squares) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/DarkLord-13/DSA/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DarkLord-13/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarkLord-13/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DarkLord-13/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1684-find-latest-group-of-size-m](https://github.com/DarkLord-13/DSA/tree/master/1684-find-latest-group-of-size-m) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2013-detect-squares](https://github.com/DarkLord-13/DSA/tree/master/2013-detect-squares) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DarkLord-13/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DarkLord-13/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -759,12 +761,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/DarkLord-13/DSA/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/DarkLord-13/DSA/tree/master/0937-online-stock-span) |
 | [1708-design-parking-system](https://github.com/DarkLord-13/DSA/tree/master/1708-design-parking-system) |
+| [2013-detect-squares](https://github.com/DarkLord-13/DSA/tree/master/2013-detect-squares) |
 | [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DarkLord-13/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/DarkLord-13/DSA/tree/master/0937-online-stock-span) |
+| [2013-detect-squares](https://github.com/DarkLord-13/DSA/tree/master/2013-detect-squares) |
 ## Queue
 |  |
 | ------- |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DarkLord-13/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1708-design-parking-system](https://github.com/DarkLord-13/DSA/tree/master/1708-design-parking-system) |
+| [2013-detect-squares](https://github.com/DarkLord-13/DSA/tree/master/2013-detect-squares) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Graph
 |  |
