@@ -993,4 +993,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/DarkLord-13/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DarkLord-13/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/DarkLord-13/DSA/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
