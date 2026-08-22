@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DarkLord-13/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/DarkLord-13/DSA/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/DarkLord-13/DSA/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarkLord-13/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1169-largest-values-from-labels](https://github.com/DarkLord-13/DSA/tree/master/1169-largest-values-from-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DarkLord-13/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/DarkLord-13/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/DarkLord-13/DSA/tree/master/0829-subdomain-visit-count) |
 | [0844-backspace-string-compare](https://github.com/DarkLord-13/DSA/tree/master/0844-backspace-string-compare) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/DarkLord-13/DSA/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarkLord-13/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/DarkLord-13/DSA/tree/master/1048-longest-string-chain) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/DarkLord-13/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DarkLord-13/DSA/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/DarkLord-13/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DarkLord-13/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DarkLord-13/DSA/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarkLord-13/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0931-maximum-frequency-stack](https://github.com/DarkLord-13/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/DarkLord-13/DSA/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarkLord-13/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -996,4 +999,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/DarkLord-13/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/DarkLord-13/DSA/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DarkLord-13/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarkLord-13/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
