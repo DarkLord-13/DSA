@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/DarkLord-13/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DarkLord-13/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/DarkLord-13/DSA/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DarkLord-13/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DarkLord-13/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/DarkLord-13/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/DarkLord-13/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DarkLord-13/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DarkLord-13/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DarkLord-13/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DarkLord-13/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/DarkLord-13/DSA/tree/master/2512-longest-uploaded-prefix) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/DarkLord-13/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-split-message-based-on-limit](https://github.com/DarkLord-13/DSA/tree/master/2563-split-message-based-on-limit) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DarkLord-13/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Linked List
 |  |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DarkLord-13/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkLord-13/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/DarkLord-13/DSA/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DarkLord-13/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2868-continuous-subarrays](https://github.com/DarkLord-13/DSA/tree/master/2868-continuous-subarrays) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/DarkLord-13/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/DarkLord-13/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
