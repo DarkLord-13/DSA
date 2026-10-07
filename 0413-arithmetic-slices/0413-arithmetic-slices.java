@@ -24,8 +24,6 @@ class Solution {
             arithmeticSubs += (l * (l + 1)) / 2;
         }
 
-        l = 0;
-
         return arithmeticSubs;
     }
 }
