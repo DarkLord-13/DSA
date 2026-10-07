@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DarkLord-13/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DarkLord-13/DSA/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/DarkLord-13/DSA/tree/master/0399-evaluate-division) |
+| [0413-arithmetic-slices](https://github.com/DarkLord-13/DSA/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DarkLord-13/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DarkLord-13/DSA/tree/master/0455-assign-cookies) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DarkLord-13/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DarkLord-13/DSA/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/DarkLord-13/DSA/tree/master/0377-combination-sum-iv) |
+| [0413-arithmetic-slices](https://github.com/DarkLord-13/DSA/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/DarkLord-13/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/DarkLord-13/DSA/tree/master/0472-concatenated-words) |
 | [0583-delete-operation-for-two-strings](https://github.com/DarkLord-13/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DarkLord-13/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/DarkLord-13/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/DarkLord-13/DSA/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/DarkLord-13/DSA/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarkLord-13/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/DarkLord-13/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarkLord-13/DSA/tree/master/0966-binary-subarrays-with-sum) |
