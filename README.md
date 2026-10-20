@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/DarkLord-13/DSA/tree/master/0670-maximum-swap) |
 | [0989-largest-component-size-by-common-factor](https://github.com/DarkLord-13/DSA/tree/master/0989-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DarkLord-13/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/DarkLord-13/DSA/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/DarkLord-13/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DarkLord-13/DSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/DarkLord-13/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
